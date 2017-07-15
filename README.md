@@ -6,7 +6,7 @@ ANDES es un **ecosistema de aplicaciones de salud** coordinado a través de una 
 
 Desde un punto de vista funcional, ANDES es una plataforma digital de servicios de salud que implementa la Historia Unificada Digital de Salud (HUDS) y permite a pacientes y profesionales de la salud acceder a los datos registrados en un modo seguro.
 
-## Origenes
+## Orígenes
 
 Hacia fines del año 2015 se sanciona la Ley de **Historia Unificada Digital de Salud (HUDS)** en la provincia de Neuquén (Argentina), que involucra todo el ámbito público y privado de la salud.
 
