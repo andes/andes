@@ -16,11 +16,42 @@ Pocos meses después comienza a gestarse un proyecto que tiene como desafío int
 
 ![Arquitectura](https://github.com/andes/andes.github.io/raw/master/images/arquitectura.png)
 
+1. **Core**: componentes básicos del núcleo de ANDES
+2. **Apps nativas**: aplicaciones básicas que implementan las herramientas administrativas y asistenciales más usadas en el ámbito de la salud.
+3. **Apps externas**: aplicaciones y sistemas existentes que interoperan con el Core
+4. **Interoperabilidad**: capa segura de comunicación HL7/FHIR entre las aplicaciones externas y los componentes del core
+
+### Core
+
+| Componente  | Descripción | Docs |
+| ------------- | ------------- | ------------- |
+| MPI  | Master Patient Index  | *Próximamente* |
+| HUDS  | Historia de Salud  | *Próximamente* |
+| TM  | Tablas Maestras | *Próximamente* |
+| TERM  | Servidor de terminología | *Próximamente* |
+
+### Apps nativas
+
+| Componente  | Descripción | Docs |
+| ------------- | ------------- | ------------- |
+| CITAS  | Agendas & Turnos | *Próximamente* |
+| RUP  | Registro Universal de Prestaciones  | *Próximamente* |
+| Mobile App | Aplicación móvil para acceso de pacientes y profesionales | *Próximamente* |
+
 ## Proyecto
 
-El proyecto está integramente construido por profesionales médicos e informáticos del [Ministerio de Salud y Desarrollo Social del Neuquén](http://www.saludneuquen.gob.ar).
+El proyecto está integramente construido por profesionales médicos e informáticos del [Ministerio de Salud y Desarrollo Social del Neuquén](http://www.saludneuquen.gob.ar) utilizando las últimas tecnologías de desarrollo de aplicaciones.
 
-## Metodología de trabajo
+### Tecnologías
+| Componente  | Tecnología | Lenguaje de programación |
+| ------------- | ------------- | ------------- |
+| APP  | Angular 4  | Typescript / HTML |
+| API  | Node.JS  | Typescript |
+| Base de datos  | MongoDB | Typescript |
+| Mobile APP  | Ionic | Typescript |
+
+
+### Metodología de trabajo
 
 El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos sincronizados que trabajan en locaciones diferentes (Subsecretaría de Salud y Hospital Provincial Neuquén). Trabajamos en sprints de 2 semanas guiados por un [Roadmap](https://github.com/andes/andes/wiki/Roadmap).
 
