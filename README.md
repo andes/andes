@@ -102,4 +102,6 @@ https://github.com/andes/andes/wiki/Roadmap
 
 ![Ministerio de Salud y Desarrollo Social](https://github.com/andes/andes.github.io/raw/master/images/logo-ministerio.png)
 
+![Facultad de Informática de la Universidad Nacional del Comahue](https://github.com/andes/andes.github.io/raw/master/images/logo-uncoma.png)
+
 
