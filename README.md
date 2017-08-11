@@ -59,10 +59,14 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 
 ### Project managers
 - Lic. Juan F. Gabriel
-- Lic. Marcelo Carrascal
-- Lic. Hugo Fernandez
+- Lic. Marcelo D. Carrascal
+- Lic. Hugo H. Fernandez
+
+### Equipo médico
 - Dra. Laura Monteverde
 - Dr. Matías Neira
+- Dra. Adelaida Goldmann
+- Dr. Roberto D'Angelo
 
 ### Developers
 - A.S. Luis Parada
@@ -85,6 +89,10 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Ing. Edgardo Kristensen
 - A.S. Pablo Silveira
 - Pablo Jeldrés
+- Manuel Pereyra
+
+
+
 
 ## Sitio oficial
 
@@ -103,5 +111,7 @@ https://github.com/andes/andes/wiki/Roadmap
 ![Ministerio de Salud y Desarrollo Social](https://github.com/andes/andes.github.io/raw/master/images/logo-ministerio.png)
 
 ![Facultad de Informática de la Universidad Nacional del Comahue](https://github.com/andes/andes.github.io/raw/master/images/logo-uncoma.png)
+
+![Colegio Médico de Neuquén](https://raw.githubusercontent.com/andes/andes.github.io/master/images/logo-colegiomedico.png)
 
 
