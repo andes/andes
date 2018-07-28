@@ -40,12 +40,12 @@ Pocos meses después comienza a gestarse un proyecto que tiene como desafío int
 
 ## Proyecto
 
-El proyecto está integramente construido por profesionales médicos e informáticos del [Ministerio de Salud y Desarrollo Social del Neuquén](http://www.saludneuquen.gob.ar) utilizando las últimas tecnologías de desarrollo de aplicaciones.
+El proyecto está integramente construido por profesionales médicos e informáticos del [Ministerio de Salud de Neuquén](http://www.saludneuquen.gob.ar) utilizando las últimas tecnologías de desarrollo de aplicaciones.
 
 ### Tecnologías
 | Componente  | Tecnología | Lenguaje de programación |
 | ------------- | ------------- | ------------- |
-| APP  | Angular 4  | Typescript / HTML |
+| APP  | Angular 6  | Typescript / HTML |
 | API  | Node.JS  | Typescript |
 | Base de datos  | MongoDB | Typescript |
 | Mobile APP  | Ionic | Typescript |
@@ -70,20 +70,20 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 
 ### Developers
 - A.S. Luis Parada
-- A.S. Manuel Urbano
 - Lic. Silvina Roa
-- Lic. Natalia Huenchuman
-- A.S. Carolina Celeste
+- Lic. Carolina Celeste
 - Andrés Velazquez Boc-Ho
 - Nicolás Dinolfo
 - Tec. Fernando Sastre
 - Lic. Mariano Botta
 
+### Q&A Team
+- Lic. Natalia Huenchuman
+- Silvina Garcia
+- Milagros Vicentelo
+
 ### UI/UX Designer
 - Lic. Julio Santarelli
-
-### Q&A
-- Silvina Garcia
 
 ### Plataforma & ANDES Cloud
 - Ing. Edgardo Kristensen
