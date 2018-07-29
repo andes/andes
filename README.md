@@ -16,7 +16,7 @@ Pocos meses después comienza a gestarse un proyecto que tiene como desafío int
 
 ![Arquitectura](https://github.com/andes/andes.github.io/raw/master/images/arquitectura.v2018.png)
 
-Lee la [wiki](https://github.com/andes/andes/wiki/Arquitectura) para más información sobre la arquitectura
+Lee la [Wiki](https://github.com/andes/andes/wiki/Arquitectura) para más información sobre la arquitectura.
 
 ## Proyecto
 
