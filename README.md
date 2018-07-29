@@ -14,29 +14,9 @@ Pocos meses después comienza a gestarse un proyecto que tiene como desafío int
 
 ## Arquitectura
 
-![Arquitectura](https://github.com/andes/andes.github.io/raw/master/images/arquitectura.png)
+![Arquitectura](https://github.com/andes/andes.github.io/raw/master/images/arquitectura.v2018.png)
 
-1. **Core**: componentes básicos del núcleo de ANDES
-2. **Apps nativas**: aplicaciones básicas que implementan las herramientas administrativas y asistenciales más usadas en el ámbito de la salud.
-3. **Apps externas**: aplicaciones y sistemas existentes que interoperan con el Core
-4. **Interoperabilidad**: capa segura de comunicación HL7/FHIR entre las aplicaciones externas y los componentes del core
-
-### Core
-
-| Componente  | Descripción | Docs |
-| ------------- | ------------- | ------------- |
-| MPI  | Master Patient Index  | *Próximamente* |
-| HUDS  | Historia de Salud  | *Próximamente* |
-| TM  | Tablas Maestras | *Próximamente* |
-| TERM  | Servidor de terminología | *Próximamente* |
-
-### Apps nativas
-
-| Componente  | Descripción | Docs |
-| ------------- | ------------- | ------------- |
-| CITAS  | Agendas & Turnos | *Próximamente* |
-| RUP  | Registro Universal de Prestaciones  | *Próximamente* |
-| Mobile App | Aplicación móvil para acceso de pacientes y profesionales | *Próximamente* |
+Lee la [WIKI](wiki/Arquitectura) para más información sobre la arquitectura
 
 ## Proyecto
 
@@ -108,7 +88,7 @@ https://github.com/andes/andes/wiki/Roadmap
 
 ## Partners
 
-![Ministerio de Salud y Desarrollo Social](https://github.com/andes/andes.github.io/raw/master/images/logo-ministerio.png)
+![Ministerio de Salud](https://github.com/andes/andes.github.io/raw/master/images/logo-ministerio.png)
 
 ![Facultad de Informática de la Universidad Nacional del Comahue](https://github.com/andes/andes.github.io/raw/master/images/logo-uncoma.png)
 
