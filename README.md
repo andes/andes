@@ -49,12 +49,18 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Dr. Roberto D'Angelo
 
 ### Developers
+- Matías Urrutia
+- Tec. Marco Santarelli
+- Tec. Fernando Sastre
+- Tec. Lautaro Lagos
 - A.S. Luis Parada
+- A.S. Nahir Saddi
+- A.S. Nicolás Dinolfo
+- A.S. Pablo Lammel
+- A.S. Lucas Gonzalez Martinez
+- A.S. Mariano Palavecino
 - Lic. Silvina Roa
 - Lic. Carolina Celeste
-- Andrés Velazquez Boc-Ho
-- Nicolás Dinolfo
-- Tec. Fernando Sastre
 - Lic. Mariano Botta
 
 ### Q&A Team
@@ -64,15 +70,14 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 
 ### UI/UX Designer
 - Lic. Julio Santarelli
+- Andrés Velazquez Boc-Ho
 
 ### Plataforma & ANDES Cloud
 - Ing. Edgardo Kristensen
 - A.S. Pablo Silveira
 - Pablo Jeldrés
 - Manuel Pereyra
-
-
-
+- David Troncoso
 
 ## Sitio oficial
 
