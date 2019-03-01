@@ -62,6 +62,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Lic. Silvina Roa
 - Lic. Carolina Celeste
 - Lic. Mariano Botta
+- Ing. Julio Rojas
 
 ### Q&A Team
 - Lic. Natalia Huenchuman
