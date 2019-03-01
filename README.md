@@ -49,7 +49,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Dr. Roberto D'Angelo
 
 ### Developers
-- Matías Urrutia
+- Tec. Matías Urrutia
 - Tec. Marco Santarelli
 - Tec. Fernando Sastre
 - Tec. Lautaro Lagos
