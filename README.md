@@ -57,7 +57,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - A.S. Nahir Saddi
 - A.S. Nicolás Dinolfo
 - A.S. Pablo Lammel
-- A.S. Lucas Gonzalez Martinez
+- A.S. Lucas González Martínez
 - A.S. Mariano Palavecino
 - Lic. Silvina Roa
 - Lic. Carolina Celeste
