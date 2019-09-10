@@ -42,6 +42,12 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Lic. Marcelo D. Carrascal
 - Lic. Hugo H. Fernandez
 
+### Team Leaders 
+- Lic. Carolina Celeste
+- Lic. Natalia Huenchuman
+- A.S Nicolás Dinolfo
+- Lic. Mariano Botta
+
 ### Equipo médico
 - Dra. Laura Monteverde
 - Dr. Matías Neira
@@ -51,14 +57,9 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 ### Developers
 - Tec. Lautaro Lagos
 - A.S. Luis Parada
-- A.S. Nicolás Dinolfo
 - A.S. Pablo Lammel
 - A.S. Lucas González Martínez
 - A.S. Mariano Palavecino
-- Lic. Silvina Roa
-- Lic. Carolina Celeste
-- Lic. Mariano Botta
-- Lic. Natalia Huenchuman
 
 ### Q&A Team
 - Silvina Garcia
