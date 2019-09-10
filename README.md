@@ -38,7 +38,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 ## Integrantes del equipo
 
 ### Project managers
-- Lic. Juan F. Gabriel
+- Lic. Silvina Roa
 - Lic. Marcelo D. Carrascal
 - Lic. Hugo H. Fernandez
 
@@ -49,12 +49,8 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Dr. Roberto D'Angelo
 
 ### Developers
-- Tec. Matías Urrutia
-- Tec. Marco Santarelli
-- Tec. Fernando Sastre
 - Tec. Lautaro Lagos
 - A.S. Luis Parada
-- A.S. Nahir Saddi
 - A.S. Nicolás Dinolfo
 - A.S. Pablo Lammel
 - A.S. Lucas González Martínez
@@ -62,10 +58,9 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Lic. Silvina Roa
 - Lic. Carolina Celeste
 - Lic. Mariano Botta
-- Ing. Julio Rojas
+- Lic. Natalia Huenchuman
 
 ### Q&A Team
-- Lic. Natalia Huenchuman
 - Silvina Garcia
 - Milagros Vicentelo
 
