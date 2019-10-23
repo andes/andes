@@ -45,7 +45,6 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 ### Team Leaders 
 - Lic. Carolina Celeste
 - Lic. Natalia Huenchuman
-- A.S Nicolás Dinolfo
 - Lic. Mariano Botta
 
 ### Equipo médico
