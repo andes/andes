@@ -57,12 +57,17 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Tec. Lautaro Lagos
 - A.S. Luis Parada
 - A.S. Pablo Lammel
-- A.S. Lucas González Martínez
+- A.S. Juliana Otero
+- A.S. Martín Bucarey
+- A.S. Gabriel Cancellieri
+- A.S. Celeste Ramos
 - A.S. Mariano Palavecino
 
-### Q&A Team
+### Help Desk
 - Silvina Garcia
 - Milagros Vicentelo
+- Molini Agustina
+- Celecinco Valentina
 
 ### UI/UX Designer
 - Lic. Julio Santarelli
