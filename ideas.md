@@ -1,8 +1,8 @@
 
 # Un Título
-###Difficulty:
+### Difficulty:
 Hard
-###Required skills:
+### Required skills:
 git, angular, nodejs
 ### Description:
 Some description......
