@@ -74,3 +74,22 @@ Medium
 - Julio Nicolas Santarelli
 - Andrés Jose Francisco Velazquez Boc-ho
 
+# Testing Project
+
+### Description:
+ 
+Unit and Visual test for our Design System [Plex](https://github.com/andes/plex).
+ 
+### Difficulty:
+Medium
+
+### Required skills:
+- Node.js
+- Cypress
+- Jest
+- Mocha
+
+### Mentors:
+- Mariano Andres Botta 
+- Hugo Hector Fernandez
+- Natalia Vanesa Huenchuman
