@@ -37,6 +37,10 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 
 ## Integrantes del equipo
 
+### Autores y mentores del proyectos
+- Lic. Marcelo D. Carrascal
+- Lic. Juan F. Gabriel
+
 ### Project managers
 - Lic. Silvina Roa
 - Lic. Marcelo D. Carrascal
