@@ -55,7 +55,6 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 
 ### Developers
 - Tec. Lautaro Lagos
-- A.S. Luis Parada
 - A.S. Pablo Lammel
 - A.S. Juliana Otero
 - A.S. Martín Bucarey
