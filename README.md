@@ -58,19 +58,18 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Dr. Roberto D'Angelo
 
 ### Developers
-- Tec. Lautaro Lagos
+- A.S. Lautaro Lagos
 - A.S. Pablo Lammel
 - A.S. Juliana Otero
 - A.S. Martín Bucarey
 - A.S. Gabriel Cancellieri
 - A.S. Celeste Ramos
-- A.S. Mariano Palavecino
+- Mariano Palavecino
 
 ### Help Desk
 - Silvina Garcia
-- Milagros Vicentelo
 - Molini Agustina
-- Celecinco Valentina
+- Celescinco Valentina
 
 ### UI/UX Designer
 - Lic. Julio Santarelli
@@ -78,7 +77,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 
 ### Plataforma & ANDES Cloud
 - Ing. Edgardo Kristensen
-- A.S. Pablo Silveira
+- Lic. Pablo Silveira
 - Pablo Jeldrés
 - Manuel Pereyra
 - David Troncoso
