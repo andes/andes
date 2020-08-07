@@ -58,7 +58,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Dr. Roberto D'Angelo
 
 ### Developers
-- A.S. Lautaro Lagos
+- A.S. Lautaro Molina
 - A.S. Pablo Lammel
 - A.S. Juliana Otero
 - A.S. Martín Bucarey
