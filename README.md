@@ -25,7 +25,7 @@ El proyecto está integramente construido por profesionales médicos e informát
 ### Tecnologías
 | Componente  | Tecnología | Lenguaje de programación |
 | ------------- | ------------- | ------------- |
-| APP  | Angular 6  | Typescript / HTML |
+| APP  | Angular   | Typescript / HTML |
 | API  | Node.JS  | Typescript |
 | Base de datos  | MongoDB | Typescript |
 | Mobile APP  | Ionic | Typescript |
