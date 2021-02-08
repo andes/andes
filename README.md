@@ -37,24 +37,19 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 
 ## Integrantes del equipo
 
-### Autores y mentores del proyecto
-- Lic. Marcelo D. Carrascal
-- Lic. Juan F. Gabriel
-
 ### Project managers
 - Lic. Silvina Roa
-- Lic. Marcelo D. Carrascal
-- Lic. Hugo H. Fernandez
-
-### Team Leaders 
 - Lic. Carolina Celeste
 - Lic. Natalia Huenchuman
+- Lic. Marcelo D. Carrascal
+
+### Team Leaders 
+- Lic. Hugo H. Fernandez
 - Lic. Mariano Botta
 
 ### Equipo médico
-- Dra. Laura Monteverde
 - Dr. Matías Neira
-- Dra. Adelaida Goldmann
+- Dra. María Eugenia Baielli
 - Dr. Roberto D'Angelo
 
 ### Developers
@@ -62,8 +57,8 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - A.S. Pablo Lammel
 - A.S. Juliana Otero
 - A.S. Martín Bucarey
-- A.S. Gabriel Cancellieri
 - A.S. Celeste Ramos
+- A.S. Walter Garrido
 - Mariano Palavecino
 
 ### Help Desk
@@ -74,6 +69,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 ### UI/UX Designer
 - Lic. Julio Santarelli
 - Andrés Velazquez Boc-Ho
+- Lic. Agostina Lizzi
 
 ### Plataforma & ANDES Cloud
 - Ing. Edgardo Kristensen
