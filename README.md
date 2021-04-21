@@ -78,6 +78,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Pablo Jeldrés
 - Manuel Pereyra
 - David Troncoso
+- Ing. Orlando Brea
 
 ## Sitio oficial
 
