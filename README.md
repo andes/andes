@@ -65,6 +65,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - Silvina Garcia
 - Molini Agustina
 - Celescinco Valentina
+- Milagros Vicentelo
 
 ### UI/UX Designer
 - Lic. Julio Santarelli
