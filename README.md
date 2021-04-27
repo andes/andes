@@ -60,6 +60,7 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 - A.S. Celeste Ramos
 - A.S. Walter Garrido
 - Mariano Palavecino
+- A.S. Mariano Campetella
 
 ### Help Desk
 - Silvina Garcia
