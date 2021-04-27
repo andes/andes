@@ -76,10 +76,11 @@ El desarrollo se realiza utilizado metologías ágiles (Scrum) con dos equipos s
 ### Plataforma & ANDES Cloud
 - Ing. Edgardo Kristensen
 - Lic. Pablo Silveira
-- Pablo Jeldrés
-- Manuel Pereyra
-- David Troncoso
+- Tec. Pablo Jeldrés
+- Tec. Manuel Pereyra
+- A.S. David Troncoso
 - Ing. Orlando Brea
+- Tec. Maricel Ojeda
 
 ## Sitio oficial
 
